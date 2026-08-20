@@ -120,3 +120,6 @@ calls are to HoYoverse's own wish API and to `gi.yatta.moe` for icons.
 ## License
 
 [MIT](LICENSE)
+
+This is an unofficial fan-made tool. Genshin Impact is a trademark of HoYoverse / miHoYo.
+This project is not affiliated with, endorsed by, or sponsored by them.
