@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+# Wish records, icons and reports live in %LOCALAPPDATA%\genshin-gacha, never here.
+# These patterns are a safety net in case anyone points the output at the repo.
+records_*.json
+stats_*.json
+report_*.html
+widget_*.html
+icon_map.json
+url.txt
+vss.log
+icons/

@@ -1,0 +1,9 @@
+{
+  "_comment": [
+    "安裝後在這裡設定語言，所有輸出（報表、widget、指令列訊息）都會跟著走。",
+    "lang: zh = 繁體中文, en = English",
+    "也可以用環境變數 GENSHIN_GACHA_LANG 或指令參數 --lang= 臨時覆寫，",
+    "優先序：--lang > 環境變數 > 這個檔 > zh"
+  ],
+  "lang": "zh"
+}
